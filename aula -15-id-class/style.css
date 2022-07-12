@@ -11,6 +11,8 @@ h1{
 
 h1#principal{
     text-align: center;
+    background-color: rgba(21, 189, 49, 0.801);
+    color: white;
 }
 
 h2{
